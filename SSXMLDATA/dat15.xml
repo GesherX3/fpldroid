@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <calendar>
+    <country name="Colombia" tournament="Liga Postobon">
+      <date month="03" day="03">
+        <!-- fecha N9 -->
+        <match>
+          <team name="Junior" home="true">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+          <team name="Once Caldas" home="false">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+        </match>
+      </date>
+      <scorers>
+        <player name="Jhon Andrés Córdoba Copete" team="Envigado" go="5" pe="0"/>
+      </scorers>
+    </country>
+    <country name="Argentina" tournament="Primera A">
+      <date month="03" day="05">
+        <!-- fecha n1) -->
+        <match>
+          <team name="Olimpo" home="true">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+          <team name="Atlético Rafaela" home="false">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+        </match>
+      </date>
+      <scorers>
+        <!-- goleadores de argentina -->
+        <player name=" Darío Gandín" team="Atlético Rafaela" go="4" pe="3"/>
+      </scorers>
+    </country>
+    <country name="Brasil" tournament="Série A">
+      <date month="12" day="04">
+        <!-- fecha n1) -->
+        <match>
+          <team name="Corinthians" home="true">
+           <goals>
+              <goal/>
+            </goals>
+          </team>
+          <team name="Palmeiras" home="false">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+        </match>
+      </date>
+      <scorers>
+        <!-- goleadores de brazil -->
+        <player name=" Borges" team="Santos" go="23" pe="1"/>
+      </scorers>
+    </country>
+    <country name="Mexico" tournament="1a division">
+      <date month="03" day="03">
+        <!-- fecha n1) -->
+        <match>
+          <team name="Toluca" home="true">
+           <goals>
+              <goal/>
+            </goals>
+          </team>
+          <team name="Pumas UNAM" home="false">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+        </match>
+      </date>
+      <scorers>
+        <!-- goleadores de mexico -->
+        <player name=" Iván Alonso" team="Toluca" go="9" pe="1"/>
+      </scorers>
+    </country>
+    <country name="Chile" tournament="Petrobras">
+      <date month="03" day="04">
+        <!-- fecha n1) -->
+        <match>
+          <team name="Santiago Wanderers" home="true">
+            <goals>
+              <goal/>
+            </goals>
+          </team>
+          <team name="Colo Colo" home="false">
+           <goals>
+              <goal/>
+            </goals>
+          </team>
+        </match>
+      </date>
+      <scorers>
+        <!-- goleadores de chile -->
+        <player name="Matías Rodríguez" team="Universidad de Chile" go="4" pe="0"/>
+      </scorers>
+    </country>
+  </calendar>
+  <championship>
+    <country name="Colombia" image="co">
+      <team name="Huila" image="co" hashtag="vamoshuila" twitter="AtleticoHuila">
+        <data matches="6" wins="4" draw="1" lost="1" for="10" against="2" difference="8" points="13" position="1"/>
+      </team>
+      <team name="Tolima" image="co" hashtag="DeportesTolima" twitter="cdtolima">
+        <data matches="6" wins="4" draw="1" lost="1" for="8" against="5" difference="3" points="13" position="2"/>
+      </team>
+      <team name="Envigado" image="co" hashtag="EnvigadoFCvsPatriotas" twitter="EnvigadoFC">
+        <data matches="6" wins="3" draw="2" lost="1" for="12" against="8" difference="4" points="11" position="3"/>
+      </team>
+      <team name="Itagui Ditaires" image="co" hashtag=" HernanTorres" twitter="ItaguiDitaires">
+        <data matches="6" wins="3" draw="2" lost="1" for="8" against="5" difference="3" points="11" position="4"/>
+      </team>
+      <team name="Nacional" image="co" hashtag="nacionaloficial" twitter="nacionaloficial">
+        <data matches="6" wins="3" draw="0" lost="3" for="11" against="5" difference="6" points="9" position="5"/>
+      </team>
+      <team name="La Equidad" image="co" hashtag="Equidad" twitter="FPC_tv">
+        <data matches="6" wins="2" draw="3" lost="1" for="7" against="4" difference="3" points="9" position="6"/>
+      </team>
+      <team name="Pasto" image="co" hashtag="DeportivoPasto" twitter="DeportivoPasto">
+        <data matches="6" wins="1" draw="5" lost="0" for="7" against="5" difference="2" points="8" position="7"/>
+      </team>
+      <team name="Junior" image="co" hashtag="junioroficial" twitter="corpojunior">
+        <data matches="6" wins="2" draw="2" lost="2" for="7" against="7" difference="0" points="8" position="8"/>
+      </team>
+      <team name="Patriotas" image="co" hashtag="Patriotas" twitter="FPC_tv">
+        <data matches="6" wins="2" draw="2" lost="2" for="4" against="7" difference="-3" points="8" position="9"/>
+      </team>
+      <team name="Chico FC" image="co" hashtag="FPC" twitter="OFICIALBCHICOFC">
+        <data matches="6" wins="2" draw="2" lost="2" for="5" against="9" difference="-4" points="8" position="10"/>
+      </team>
+      <team name="Santa Fe" image="co" hashtag="santafeoficial" twitter="IndSantaFeCO">
+        <data matches="6" wins="1" draw="4" lost="1" for="7" against="6" difference="1" points="7" position="11"/>
+      </team>
+      <team name="Millonarios" image="co" hashtag="Felizdíamujer" twitter="MillosFCoficial">
+        <data matches="6" wins="1" draw="4" lost="1" for="6" against="6" difference="0" points="7" position="12"/>
+      </team>
+      <team name="Cartagena" image="co" hashtag="VamosRealCartagena" twitter="RealCartagenaCD">
+        <data matches="6" wins="1" draw="4" lost="1" for="8" against="9" difference="-1" points="7" position="13"/>
+      </team>
+      <team name="Cucuta" image="co" hashtag="cucuta deportivo" twitter="Cucutaoficial">
+        <data matches="6" wins="2" draw="1" lost="3" for="5" against="9" difference="-4" points="7" position="14"/>
+      </team>
+      <team name="Quindio" image="co" hashtag="FPC" twitter="DeporQuindio">
+        <data matches="6" wins="0" draw="4" lost="2" for="5" against="10" difference="-5" points="4" position="15"/>
+      </team>
+      <team name="Cali" image="co" hashtag="TODOSALPASCUAL" twitter="Deportivo_Cali">
+        <data matches="6" wins="1" draw="1" lost="4" for="5" against="12" difference="-7" points="4" position="16"/>
+      </team>
+      <team name="Once Caldas" image="co" hashtag="OnceCaldas" twitter="oncecaldasweb">
+        <data matches="6" wins="0" draw="3" lost="3" for="5" against="8" difference="-3" points="3" position="17"/>
+      </team>
+      <team name="Medellin" image="co" hashtag="elrojoesfamilia" twitter="oficialDIM">
+        <data matches="6" wins="0" draw="3" lost="3" for="4" against="7" difference="-3" points="3" position="18"/>
+      </team>
+      <team name="America" image="co" hashtag="BarraRojaTwittera" twitter="AmericaOFICIAL">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>	  
+    </country>
+    <country name="Argentina" image="ar">
+      <team name="Boca Juniors" image="ar" hashtag="boca" twitter="BocaJrsOficial">
+        <data matches="4" wins="3" draw="1" lost="0" for="6" against="0" difference="6" points="10" position="1"/>
+      </team>
+      <team name="Velez Sarsfield" image="ar" hashtag="Vélez" twitter="Velez">
+        <data matches="4" wins="2" draw="2" lost="0" for="8" against="3" difference="5" points="8" position="3"/>
+      </team>
+      <team name="Independiente" image="ar" hashtag="Independiente" twitter="IndependienteFC">
+        <data matches="4" wins="0" draw="0" lost="4" for="1" against="7" difference="-6" points="0" position="20"/>
+      </team>
+      <team name="Racing" image="ar" hashtag="racingradio" twitter="RacingClubAC">
+        <data matches="4" wins="2" draw="2" lost="0" for="8" against="3" difference="5" points="8" position="3"/>
+      </team>
+	  <team name="River" image="ar" hashtag="River" twitter="carpoficial">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Belgrano de Cordoba" image="ar" hashtag="BelgranoTeExtraño" twitter="Belgranocab">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Colon de Santa Fe" image="ar" hashtag="Colón" twitter="twcolon">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Godoy Cruz de Mendoza" image="ar" hashtag="TombaLBDE" twitter=" ">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Lanus" image="ar" hashtag="ClubLanusAr" twitter="Lanus">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Newells Old Boys" image="ar" hashtag="Lepranews" twitter="Newells">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Olimpo de Bahia Blanca" image="ar" hashtag="ClubOlimpoBB" twitter="Olimpo">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="San Lorenzo" image="ar" hashtag="SLOnline" twitter="SanLorenzo">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="San Martin de San Juan" image="ar" hashtag="SanMartinWeb" twitter="SMSJ">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Tigre" image="ar" hashtag="TigresOficial	" twitter="HoyJuegaTigresOficial">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Banfield" image="ar" hashtag="banfieldoficial" twitter="Banfield">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Estudiantes de La Plata" image="ar" hashtag="EdelpOficial" twitter="EstudiantesLP">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  <team name="Union de Santa Fe" image="ar" hashtag="clubaunion" twitter="Unión">
+        <data matches="0" wins="0" draw="0" lost="0" for="0" against="0" difference="0" points="0" position="0"/>
+      </team>
+	  
+    </country>
+    <country name="Brasil" image="br">
+      <team name="Corinthians" image="br" hashtag=" Corinthians" twitter="CorinthiansNews">
+        <data matches="38" wins="21" draw="8" lost="9" for="53" against="36" difference="17" points="71" position="1"/>
+      </team>
+      <team name="Flamengo" image="br" hashtag="Flamengo" twitter="fla_oficial">
+        <data matches="38" wins="15" draw="16" lost="7" for="59" against="47" difference="12" points="61" position="4"/>
+      </team>
+      <team name="Internacional" image="br" hashtag=" vamoInter" twitter="SCInternacional">
+        <data matches="38" wins="16" draw="12" lost="10" for="57" against="43" difference="14" points="60" position="5"/>
+      </team>
+      <team name="Sao Paulo" image="br" hashtag="NavioTricolorST" twitter="SaoPauloFC">
+        <data matches="38" wins="16" draw="11" lost="11" for="57" against="46" difference="11" points="59" position="6"/>
+      </team>
+      <team name="Santos" image="br" hashtag="HojeSóVaiDarSantos" twitter="CoracaoSantista">
+        <data matches="38" wins="15" draw="8" lost="15" for="55" against="55" difference="0" points="53" position="10"/>
+      </team>
+      <team name="Palmeiras" image="br" hashtag="diainternacionaldamulher " twitter="Trechosverdao">
+        <data matches="38" wins="11" draw="17" lost="10" for="43" against="39" difference="4" points="50" position="11"/>
+      </team>
+	  <!--gremio P-->
+	  <team name="Gremio" image="br" hashtag="Gremio" twitter="Gremio News">
+        <data matches="38" wins="21" draw="8" lost="9" for="53" against="36" difference="17" points="71" position="1"/>
+      </team>
+    </country>
+    <country name="Mexico" image="mx">
+      <team name="Club America" image="mx" hashtag="CFAmerica" twitter="CF_America">
+        <data matches="9" wins="5" draw="3" lost="1" for="15" against="5" difference="10" points="18" position="2"/>
+      </team>
+      <team name="Cruz Azul" image="mx" hashtag="VamosAzul" twitter="Cruz_Azul_FC">
+        <data matches="9" wins="3" draw="5" lost="1" for="13" against="10" difference="3" points="14" position="9"/>
+      </team>
+      <team name="Guadalajara" image="mx" hashtag=" EstadioOmnilife" twitter="Chivas">
+        <data matches="9" wins="2" draw="2" lost="5" for="6" against="12" difference="-6" points="8" position="15"/>
+      </team>
+    </country>
+    <country name="Chile" image="cl">
+      <team name="ColoColo" image="cl" hashtag=" ColoColo" twitter="colocolonoticia">
+        <data matches="6" wins="2" draw="3" lost="1" for="7" against="5" difference="2" points="9" position="7"/>
+      </team>
+      <team name="Universidad de Chile" image="cl" hashtag="UdeChile" twitter="udechile">
+        <data matches="6" wins="4" draw="1" lost="1" for="14" against="8" difference="6" points="13" position="13"/>
+      </team>
+      <team name="Universidad Catolica" image="cl" hashtag=" EstadioOmnilife" twitter="clubdeportivouc">
+        <data matches="6" wins="3" draw="2" lost="1" for="12" against="9" difference="3" points="11" position="3"/>
+      </team>
+    </country>
+    <country name="Costa Rica" image="cr">
+      <team name="Saprissa" image="cr" hashtag="quelindosermorado" twitter="SaprissaOficial">
+        <data matches="11" wins="6" draw="4" lost="1" for="19" against="12" difference="7" points="22" position="2"/>
+      </team>
+      <team name="Alajuelence" image="cr" hashtag="#Futbol CostaRica " twitter="solofutbolcr">
+        <data matches="9" wins="3" draw="5" lost="1" for="13" against="10" difference="3" points="14" position="9"/>
+      </team>
+    </country>
+    <country name="El Salvador" image="elsa">
+      <team name="FAS" image="elsa" hashtag="elsa" twitter="CDeportivoFAS">
+        <data matches="11" wins="2" draw="6" lost="3" for="10" against="16" difference="-6" points="12" position="7"/>
+      </team>
+      <team name="Alianza" image="elsa" hashtag="AlianzaFC" twitter="AlianzaFC_sv">
+        <data matches="11" wins="3" draw="2" lost="6" for="18" against="25" difference="-7" points="11" position="8"/>
+      </team>
+    </country>
+    <country name="Guatemala" image="gu">
+      <team name="Municipal" image="gu" hashtag="CSD Municipal" twitter="rojos_municipal">
+        <data matches="11" wins="4" draw="4" lost="3" for="10" against="7" difference="3" points="16" position="5"/>
+      </team>
+      <team name="Comunicaciones" image="gu" hashtag="cremaslive" twitter="camerinocrema">
+        <data matches="11" wins="7" draw="2" lost="2" for="20" against="9" difference="101" points="23" position="2"/>
+      </team>
+    </country>
+    <country name="Honduras" image="ho">
+      <team name="Olimpia" image="ho" hashtag="Olimpia" twitter="CDOlimpiaFans">
+        <data matches="9" wins="7" draw="2" lost="0" for="15" against="3" difference="12" points="1" position="9"/>
+      </team>
+      <team name="Motagua" image="ho" hashtag="VamosMotagua" twitter="Motaguaofficial">
+        <data matches="10" wins="3" draw="7" lost="0" for="11" against="7" difference="4" points="16" position="4"/>
+      </team>
+    </country>
+    <country name="Nicaragua" image="ni">
+      <team name="Real Esteli" image="ni" hashtag="Nicaragua" twitter="RealEsteliFC_SA">
+        <data matches="14" wins="7" draw="2" lost="5" for="16" against="15" difference="1" points="23" position="7"/>
+      </team>
+      <team name="Diriangen" image="ni" hashtag="Nicaragua" twitter="kichanews1">
+        <data matches="14" wins="5" draw="4" lost="5" for="17" against="16" difference="1" points="19" position="5"/>
+      </team>
+    </country>
+    <country name="Peru" image="pe">
+      <team name="Universitario de Deportes" image="pe" hashtag="futbolperuano" twitter="Universitario">
+        <data matches="2" wins="0" draw="1" lost="1" for="1" against="2" difference="-1" points="1" position="12"/>
+      </team>
+      <team name="Alianza Lima" image="pe" hashtag="Alianza Lima" twitter="ClubAlianzaLima">
+        <data matches="2" wins="0" draw="1" lost="1" for="3" against="4" difference="1-1" points="1" position="9"/>
+      </team>
+      <team name="Sporting Cristal" image="pe" hashtag="sporting cristal" twitter="clubscristal">
+        <data matches="2" wins="2" draw="0" lost="0" for="7" against="1" difference="6" points="6" position="1"/>
+      </team>
+    </country>
+    <country name="Puerto Rico" image="pr">
+      <team name="San Francisco" image="pr" hashtag="LPF" twitter="sanfrancisco_fc">
+        <data matches="9" wins="3" draw="5" lost="1" for="13" against="10" difference="3" points="14" position="9"/>
+      </team>
+      <team name="Arabe Unido" image="pr" hashtag="arabeunido" twitter="ArabeUnido_">
+        <data matches="9" wins="5" draw="3" lost="1" for="15" against="5" difference="10" points="18" position="2"/>
+      </team>
+    </country>
+    <country name="Venezuela" image="ve">
+      <team name="Tachira FC" image="ve" hashtag="CanteraAurinegra" twitter="DvoTachira">
+        <data matches="9" wins="3" draw="5" lost="1" for="13" against="10" difference="3" points="14" position="9"/>
+      </team>
+      <team name="Mineros FC" image="ve" hashtag="VamosMineros" twitter="ACCDMinerosdeG">
+        <data matches="16" wins="7" draw="4" lost="5" for="19" against="21" difference="-2" points="25" position="6"/>
+      </team>
+    </country>
+  </championship>
+</app>
